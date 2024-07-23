@@ -48,7 +48,7 @@ ul {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: #cccccc;
+  background-color: #84cbfa4b;
   padding-top: 10px;
   
 }
@@ -326,11 +326,47 @@ ul {
   }
 }
 
+
+/* revie section */
+
+/* .reviews {
+  border: none;
+  height: 1px;
+  background-color: black;
+  margin-bottom: 50px;
+}
+ */
+
+/* Review Section */
+
+
+/* Footer Section */
+.footer {
+  background-color: var(--main-color);
+  padding: 20px;
+  text-align: center;
+  color: var(--white-color);
+  margin-top: 50px;
+}
+
+.footer p {
+  font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
 /* Footer Section  */
 /* Footer Section  */
 /* Footer Section  */
 .footer {
-  background: #cccccc;
+  background-color: #84cbfa4b;
   padding: 30px 20px;
   text-align: center;
 }
@@ -338,3 +374,6 @@ ul {
   font-size: 14px;
   color: var(--black-color);
 }
+
+
+
